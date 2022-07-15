@@ -7,4 +7,7 @@ This source code and apk building on android studio powered by cusmedroid
 ## Profile (Simple)
 ![Profile](image/Profile.png)
 
->[Link](https://github.com/CusMeDroid/android-studio/tree/main/Profile)
+### Clone Repo
+>cd `AndroidStudioProjects` //Your Directory
+
+>git clone `https://github.com/CusMeDroid/android-studio/tree/main/Profile`
