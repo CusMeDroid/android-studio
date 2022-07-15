@@ -11,3 +11,11 @@ This source code and apk building on android studio powered by cusmedroid
 >cd `AndroidStudioProjects` //Your Directory
 
 >git clone `https://github.com/CusMeDroid/android-studio/tree/main/Profile`
+
+## SQLite (Simple)
+![SQLite](image/sqlite.jpg)
+
+### Clone Repo
+>cd `AndroidStudioProjects` //Your Directory
+
+>git clone `https://github.com/CusMeDroid/android-studio/tree/main/SqliteOperation`
