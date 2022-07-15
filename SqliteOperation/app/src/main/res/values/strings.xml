@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SqliteOperations</string>
+    <string name="app_by">Aplikasi by : </string>
+    <string name="dev_name">CusMeDroid</string>
+    <string name="dev_name_lengkap">CusMeDroid</string>
+    <string name="newname">Nama Baru</string>
+    <string name="entername">Masukkan Nama</string>
+    <string name="username">Nama</string>
+    <string name="password">Kata Sandi</string>
+    <string name="make_data">Membuat User Data</string>
+    <string name="edit">Edit Nama User</string>
+    <string name="remove">Hapus Data User</string>
+    <string name="asssr">Tambah User</string>
+    <string name="view_data">Lihat Data</string>
+    <string name="add_user">Tambah</string>
+    <string name="update">Ubah</string>
+    <string name="delete">Hapus</string>
+</resources>

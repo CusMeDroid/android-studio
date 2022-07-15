@@ -1,0 +1,9 @@
+<resources>
+    <item name="editName" type="id" />
+    <item name="editPass" type="id" />
+    <item name="editText3" type="id" />
+    <item name="editText5" type="id" />
+    <item name="editText6" type="id" />
+    <item name="form_main" type="id" />
+    <item name="edit_user" type="id" />
+</resources>
