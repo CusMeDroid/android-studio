@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#6F8BC34A</color>
+    <color name="colorControlHighlight">#6F8BC34A</color>
+    <color name="colorControlNormal">#6F8BC34A</color>
+
+    <color name="colorBackground">#f4f4f4</color>
+    <color name="colorMerah">#F44336</color>
+    <color name="colorKuning">#FFEB3B</color>
+    <color name="colorHijau">#4CAF50</color>
+    <color name="colorBiru">#2196F3</color>
+    <color name="colorPutih">#FFFFFF</color>
+    <color name="colorHitam">#000000</color>
+    <color name="colorAbu">#A9A9A9</color>
+    <color name="colorbla">#757575</color>
+    <color name="colorTransparant">#00000000</color>
+</resources>

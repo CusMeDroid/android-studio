@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Profile</string>
+    <string name="dev">CusMeDroid</string>
+    <string name="nick">\@CusMeDroid</string>
+    <string name="desk">Loremipsum dolor a smit text Loremipsum dolor a smit text Loremipsum dolor a smit text Loremipsum dolor a smit text</string>
+    <string name="powered">Powered By CusMeDroid</string>
+    <string name="shareName">This example app profile</string>
+    <string name="shareSummary">You can get this app on http://cusmedroid.is-best.net</string>
+</resources>
