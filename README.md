@@ -7,15 +7,20 @@ This source code and apk building on android studio powered by cusmedroid
 ## Profile (Simple)
 ![Profile](image/Profile.png)
 
-### Clone Repo
->cd `AndroidStudioProjects` //Your Directory
+### View Source
 
->git clone `https://github.com/CusMeDroid/android-studio/tree/main/Profile`
+```
+https://github.com/CusMeDroid/android-studio/tree/main/Profile
+```
 
 ## SQLite (Simple)
 ![SQLite](image/sqlite.jpg)
 
-### Clone Repo
->cd `AndroidStudioProjects` //Your Directory
+### View Source
 
->git clone `https://github.com/CusMeDroid/android-studio/tree/main/SqliteOperation`
+```
+https://github.com/CusMeDroid/android-studio/tree/main/SqliteOperation
+```
+
+## Full git Clone
+> git clone https://github.com/CusMeDroid/android-studio.git
